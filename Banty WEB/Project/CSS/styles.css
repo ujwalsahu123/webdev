@@ -1,0 +1,23 @@
+             /* Tag Selectors */
+
+h1{
+    font-size: 50px;
+    color: red;
+
+}
+img:hover{
+    background-color: gold;
+}
+
+.A{background-color: green;
+}
+.B{background-color: blueviolet;
+}
+.A{border-radius: 50%;
+}
+
+.B{border-radius: 50%;
+}
+h1{
+    color: blue;
+}
